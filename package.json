@@ -1,0 +1,18 @@
+{
+  "name": "dataaggregator",
+  "version": "1.0.0",
+  "description": "Retrieve data from Brisbane City Council site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "dataaggregator"
+  },
+  "author": "Mez",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
