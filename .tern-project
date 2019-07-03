@@ -1,0 +1,17 @@
+{
+  "libs": [
+    "browser",
+    "jquery",
+    "underscore",
+    "chai"
+  ],
+  "plugins": {
+     "node": {},
+     "modules": {},
+     "requirejs": {},
+     "es_modules": {},
+     "jasmine": {}
+  }
+
+}
+  
