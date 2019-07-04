@@ -13,6 +13,8 @@
   "author": "Mez",
   "license": "ISC",
   "dependencies": {
-    "request": "^2.88.0"
+    "csv": "^5.1.1",
+    "request": "^2.88.0",
+    "url": "^0.11.0"
   }
 }
